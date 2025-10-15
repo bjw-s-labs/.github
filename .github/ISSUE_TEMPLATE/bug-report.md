@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help improve this project
 title: ""
-labels: bug
+type: bug
 assignees: ["bjw-s"]
 ---
 
